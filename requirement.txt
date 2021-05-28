@@ -2,3 +2,4 @@ This is ecomerce applictaion version 1
 
 Categories
 Product
+Customer
